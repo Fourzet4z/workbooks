@@ -44,7 +44,7 @@
     "5": {
       "id": 5,
       "type": "text",
-      "data": "",
+      "data": "Edited by 4zzz",
       "idCounter": 0,
       "comments": {
         "ids": [],
