@@ -34,7 +34,7 @@
     "4": {
       "id": 4,
       "type": "text",
-      "data": "",
+      "data": "edited by 4zzz as Fourzet.4z",
       "idCounter": 0,
       "comments": {
         "ids": [],
