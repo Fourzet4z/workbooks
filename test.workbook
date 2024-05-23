@@ -30,11 +30,22 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "4": {
+      "id": 4,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
     1,
     2,
+    4,
     3
   ],
   "settings": {
