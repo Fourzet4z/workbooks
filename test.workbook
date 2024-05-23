@@ -30,12 +30,34 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "4": {
+      "id": 4,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
+    },
+    "5": {
+      "id": 5,
+      "type": "text",
+      "data": "Edited by 4zzz",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
     1,
     2,
-    3
+    3,
+    4,
+    5
   ],
   "settings": {
     "katexMacros": "",
