@@ -24,7 +24,7 @@
     "3": {
       "id": 3,
       "type": "text",
-      "data": "",
+      "data": "fourzet",
       "idCounter": 0,
       "comments": {
         "ids": [],
