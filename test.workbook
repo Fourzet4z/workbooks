@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "text",
-      "data": "",
+      "data": "Edited by Fourzet4z",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -34,17 +34,7 @@
     "4": {
       "id": 4,
       "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
-    },
-    "5": {
-      "id": 5,
-      "type": "text",
-      "data": "Edited by 4zzz",
+      "data": "edited by 4zzz as Fourzet.4z",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -55,9 +45,8 @@
   "cellsOrder": [
     1,
     2,
-    3,
     4,
-    5
+    3
   ],
   "settings": {
     "katexMacros": "",
