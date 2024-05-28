@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "text",
-      "data": "",
+      "data": "Edited by 4zzz",
       "idCounter": 0,
       "comments": {
         "ids": [],
