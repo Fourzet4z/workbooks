@@ -1,0 +1,12 @@
+{
+  "versionNumber": 1,
+  "cells": {},
+  "cellsOrder": [],
+  "settings": {
+    "katexMacros": "",
+    "github": {
+      "editBranch": "test3",
+      "handinBranch": "main1"
+    }
+  }
+}
